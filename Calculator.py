@@ -1,22 +1,22 @@
-# Class Calculator to preform basic arithmetic Operations (addition) (subtraction) (multiplication) (division)
 class Calculator:
     # Addition function
-    def add(self,num1,num2):
+    def add(self, num1, num2):
         return num1 + num2
     
-    # subtraction function
-    def subtract(num1,num2):
+    # Subtraction function
+    def subtract(self, num1, num2):
         return num1 - num2
-    # multiplication function
-    def multiply(num1, num2):
+
+    # Multiplication function
+    def multiply(self, num1, num2):
         return num1 * num2
     
     # Division function with condition if the second number == 0 can not divide
-    def divide(num1,num2):
+    def divide(self, num1, num2):
         if num2 != 0:
             return num1 / num2
         else:
-            return ("Cannot divide by zero")
+            return "Cannot divide by zero"
         
 
 # Example usage
