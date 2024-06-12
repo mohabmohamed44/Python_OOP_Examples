@@ -7,6 +7,6 @@ This repository contains examples of object-oriented programming (OOP) concepts 
 1. [Introduction](#introduction)
 2. [Examples](#examples)
     - [Calculator](https://github.com/mohabmohamed44/Python_OOP_Examples/blob/master/Calculator.py)
-    - [Person](#person)
-    - [Circle](#circle)
+    - [Person](https://github.com/mohabmohamed44/Python_OOP_Examples/blob/master/Person.py)
+    - [Circle](https://github.com/mohabmohamed44/Python_OOP_Examples/blob/master/Person.py)
 3. [Contributor](https://github.com/mohabmohamed44)
